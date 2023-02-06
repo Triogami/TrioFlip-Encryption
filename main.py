@@ -1,3 +1,4 @@
+#TrioFlip Encryption
 def switch_ones_zeros(binary_input):
     return ''.join(['1' if c == '0' else '0' for c in binary_input])
 
